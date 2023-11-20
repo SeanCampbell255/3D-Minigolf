@@ -1,3 +1,15 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699646202
+::res://::1700500461
 icon.svg::CompressedTexture2D::6569686776714134958::1699646197::1699646202::1::::<><>::
+::res://assets/::1700500462
+ball_normal_map.png::CompressedTexture2D::6517593021112780049::1700500461::1700500462::1::::<><>::
+bar_green.png::CompressedTexture2D::55803667781390292::1700500461::1700500462::1::::<><>::
+bar_red.png::CompressedTexture2D::6055213992504320824::1700500461::1700500462::1::::<><>::
+bar_white.png::CompressedTexture2D::7443171474570772859::1700500461::1700500462::1::::<><>::
+bar_yellow.png::CompressedTexture2D::6221310644944436544::1700500461::1700500462::1::::<><>::
+golf_tiles.glb::PackedScene::1926017169522403715::1700500461::1700500462::1::::<><>::
+golf_tiles.tres::MeshLibrary::488239880680318813::1700500462::0::1::::<><>::
+golf_tiles.tscn::PackedScene::3885062681704072093::1700500462::0::1::::<><>::uid://bjvtnmysldjxe::::res://assets/golf_tiles.glb
+Xolonium-Regular.ttf::FontFile::773979061539840826::1700500462::1700500462::1::::<><>::
+::res://assets/courses/::1700500461
+minigolf_01.glb::PackedScene::3090410868159300174::1700500461::1700500462::1::::<><>::
